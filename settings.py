@@ -19,7 +19,7 @@ COOKIES_ENABLED = True
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'xbox_games (+http://www.yourdomain.com)'
 
-# mysql 配置
+# mysql config
 MYSQL_DB_NAME = [DB_NAME]
 MYSQL_HOST = [DB_HOST]
 MYSQL_USER = [DB_USER]
